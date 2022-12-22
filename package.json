@@ -16,7 +16,7 @@
   "contributes": {
     "commands": [{
       "command": "basem-pattern.getxInstall",
-      "title": "Basem Install"
+      "title": "Basem: Generate structure"
     }]
   },
   "scripts": {
